@@ -1,6 +1,6 @@
-Burdîniuc Ilie, 311CD, Tema 2 - Metode Numerice - PageRank
+# Burdîniuc Ilie, 311CD, Tema 2 - Metode Numerice - PageRank
 
-Iterative:
+## Iterative:
 	- am citit datele din fisierele de intrare
 	- am lasat 0  pe diagonala, fiindca nu se ia in considerare link-ul catre ele
 	  insasi
@@ -8,7 +8,7 @@ Iterative:
 	- am intrat in bucla calculand de fiecare date vectorul, pana nu ajung la 
 	  precizia dorită
 
-Algebraic:
+## Algebraic:
 	- am citit datele din fisierele de intrare
 	- am lasat 0  pe diagonala, fiindca nu se ia in considerare link-ul catre ele
 	  insasi
@@ -17,7 +17,7 @@ Algebraic:
 	  algoritmul SST pentru calcularea ecuatiilor. In final am aflat inversa
 	  necesara la calcularea vectorul PR
 
-PageRank:
+## PageRank:
 	- am apelat functiile descrise mai sus si am inscris numărul de pagini web 
 	  analizate si rezultatele functiior in fisierul de tip nume".out"
 	- am sortat vectorul rezultat la functia Algebraic
